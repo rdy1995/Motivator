@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/library/build/intermediates/res/merged/debug/anim/tw__accelerate_cubic.xml",
+        "source": "/Users/dddddd/.android/build-cache/abd91bc45bc241b8c474989b1927fcd9c27a7ff6/output/res/anim/tw__accelerate_cubic.xml"
+    },
+    {
+        "merged": "/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/library/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_out.xml",
+        "source": "/Users/dddddd/.android/build-cache/633c7ec7e7331dfa25caea61e215fcbb04127080/output/res/anim/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/library/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/dddddd/.android/build-cache/22c03d774852207d022b53a9d62748a85d09a91f/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/library/build/intermediates/res/merged/debug/anim/design_fab_out.xml",
+        "source": "/Users/dddddd/.android/build-cache/633c7ec7e7331dfa25caea61e215fcbb04127080/output/res/anim/design_fab_out.xml"
+    },
+    {
+        "merged": "/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/library/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/Users/dddddd/.android/build-cache/22c03d774852207d022b53a9d62748a85d09a91f/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/library/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/dddddd/.android/build-cache/22c03d774852207d022b53a9d62748a85d09a91f/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/library/build/intermediates/res/merged/debug/anim/slide_out_left.xml",
+        "source": "/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/auth/build/intermediates/bundles/default/res/anim/slide_out_left.xml"
+    },
+    {
+        "merged": "/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/library/build/intermediates/res/merged/debug/anim/design_snackbar_out.xml",
+        "source": "/Users/dddddd/.android/build-cache/633c7ec7e7331dfa25caea61e215fcbb04127080/output/res/anim/design_snackbar_out.xml"
+    },
+    {
+        "merged": "/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/library/build/intermediates/res/merged/debug/anim/design_fab_in.xml",
+        "source": "/Users/dddddd/.android/build-cache/633c7ec7e7331dfa25caea61e215fcbb04127080/output/res/anim/design_fab_in.xml"
+    },
+    {
+        "merged": "/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/library/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/dddddd/.android/build-cache/22c03d774852207d022b53a9d62748a85d09a91f/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/library/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/dddddd/.android/build-cache/22c03d774852207d022b53a9d62748a85d09a91f/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/library/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/Users/dddddd/.android/build-cache/22c03d774852207d022b53a9d62748a85d09a91f/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/library/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/dddddd/.android/build-cache/22c03d774852207d022b53a9d62748a85d09a91f/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/library/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_in.xml",
+        "source": "/Users/dddddd/.android/build-cache/633c7ec7e7331dfa25caea61e215fcbb04127080/output/res/anim/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/library/build/intermediates/res/merged/debug/anim/design_snackbar_in.xml",
+        "source": "/Users/dddddd/.android/build-cache/633c7ec7e7331dfa25caea61e215fcbb04127080/output/res/anim/design_snackbar_in.xml"
+    },
+    {
+        "merged": "/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/library/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/dddddd/.android/build-cache/22c03d774852207d022b53a9d62748a85d09a91f/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/library/build/intermediates/res/merged/debug/anim/tw__slide_out.xml",
+        "source": "/Users/dddddd/.android/build-cache/abd91bc45bc241b8c474989b1927fcd9c27a7ff6/output/res/anim/tw__slide_out.xml"
+    },
+    {
+        "merged": "/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/library/build/intermediates/res/merged/debug/anim/slide_in_right.xml",
+        "source": "/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/auth/build/intermediates/bundles/default/res/anim/slide_in_right.xml"
+    },
+    {
+        "merged": "/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/library/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/dddddd/.android/build-cache/22c03d774852207d022b53a9d62748a85d09a91f/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/library/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/dddddd/.android/build-cache/22c03d774852207d022b53a9d62748a85d09a91f/output/res/anim/abc_slide_out_bottom.xml"
+    }
+]

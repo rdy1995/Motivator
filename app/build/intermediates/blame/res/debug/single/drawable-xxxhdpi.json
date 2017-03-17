@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/logo_googleg_color_144dp.png",
+        "source": "/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/app/src/main/res/drawable-xxxhdpi/logo_googleg_color_144dp.png"
+    },
+    {
+        "merged": "/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/anon_user_48dp.png",
+        "source": "/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/app/src/main/res/drawable-xxxhdpi/anon_user_48dp.png"
+    },
+    {
+        "merged": "/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/firebase_auth_120dp.png",
+        "source": "/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/app/src/main/res/drawable-xxxhdpi/firebase_auth_120dp.png"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/dddddd/.android/build-cache/a8f2bac48d29f94dc4457290e6536dea75fd4519/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/dddddd/.android/build-cache/a8f2bac48d29f94dc4457290e6536dea75fd4519/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/dddddd/.android/build-cache/a8f2bac48d29f94dc4457290e6536dea75fd4519/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/dddddd/.android/build-cache/a8f2bac48d29f94dc4457290e6536dea75fd4519/output/res/layout-v21/notification_template_custom_big.xml"
+    }
+]

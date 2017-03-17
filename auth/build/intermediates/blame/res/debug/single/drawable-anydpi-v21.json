@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/auth/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_googleg_color_24dp.xml",
+        "source": "/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/auth/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_googleg_color_24dp.xml"
+    },
+    {
+        "merged": "/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/auth/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_facebook_white_22dp.xml",
+        "source": "/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/auth/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_facebook_white_22dp.xml"
+    },
+    {
+        "merged": "/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/auth/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_twitter_bird_white_24dp.xml",
+        "source": "/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/auth/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_twitter_bird_white_24dp.xml"
+    },
+    {
+        "merged": "/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/auth/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_mail_white_24dp.xml",
+        "source": "/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/auth/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_mail_white_24dp.xml"
+    },
+    {
+        "merged": "/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/auth/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility.xml",
+        "source": "/Users/dddddd/.android/build-cache/633c7ec7e7331dfa25caea61e215fcbb04127080/output/res/drawable-anydpi-v21/design_ic_visibility.xml"
+    },
+    {
+        "merged": "/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/auth/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility_off.xml",
+        "source": "/Users/dddddd/.android/build-cache/633c7ec7e7331dfa25caea61e215fcbb04127080/output/res/drawable-anydpi-v21/design_ic_visibility_off.xml"
+    }
+]

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a14c659145b193800af9fbd570b23bc024c3ea5d">
+        <dex dex="/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_2a371737aa7ff6f888e9b9c341b7a12adf7df4e7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_6ad531a772a7b7e323bced91d4eeda324ad907f8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dddddd/.android/build-cache/ef3e2fe2b8663b2f332e346db9b4c6b8317eb6d9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d08bb32b88df3dbcbe1d498c3c57f020b8c521ec">
+        <dex dex="/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7d7ffa8813ad1dfb4f3a781d455f291e547313c3/classes.dex" />
+    </item>
+
+</items>

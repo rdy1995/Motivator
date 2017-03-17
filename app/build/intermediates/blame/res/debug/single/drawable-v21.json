@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/app/build/intermediates/res/merged/debug/drawable-v21/avd_show_password.xml",
+        "source": "/Users/dddddd/.android/build-cache/633c7ec7e7331dfa25caea61e215fcbb04127080/output/res/drawable-v21/avd_show_password.xml"
+    },
+    {
+        "merged": "/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/dddddd/.android/build-cache/a8f2bac48d29f94dc4457290e6536dea75fd4519/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_camera.xml",
+        "source": "/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/app/src/main/res/drawable-v21/ic_menu_camera.xml"
+    },
+    {
+        "merged": "/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_slideshow.xml",
+        "source": "/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/app/src/main/res/drawable-v21/ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/dddddd/.android/build-cache/a8f2bac48d29f94dc4457290e6536dea75fd4519/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_share.xml",
+        "source": "/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/app/src/main/res/drawable-v21/ic_menu_share.xml"
+    },
+    {
+        "merged": "/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/app/build/intermediates/res/merged/debug/drawable-v21/avd_hide_password.xml",
+        "source": "/Users/dddddd/.android/build-cache/633c7ec7e7331dfa25caea61e215fcbb04127080/output/res/drawable-v21/avd_hide_password.xml"
+    },
+    {
+        "merged": "/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/dddddd/.android/build-cache/a8f2bac48d29f94dc4457290e6536dea75fd4519/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_send.xml",
+        "source": "/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/app/src/main/res/drawable-v21/ic_menu_send.xml"
+    },
+    {
+        "merged": "/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/Users/dddddd/.android/build-cache/a8f2bac48d29f94dc4457290e6536dea75fd4519/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_manage.xml",
+        "source": "/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/app/src/main/res/drawable-v21/ic_menu_manage.xml"
+    },
+    {
+        "merged": "/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/app/build/intermediates/res/merged/debug/drawable-v21/design_bottom_navigation_item_background.xml",
+        "source": "/Users/dddddd/.android/build-cache/633c7ec7e7331dfa25caea61e215fcbb04127080/output/res/drawable-v21/design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/app/build/intermediates/res/merged/debug/drawable-v21/design_password_eye.xml",
+        "source": "/Users/dddddd/.android/build-cache/633c7ec7e7331dfa25caea61e215fcbb04127080/output/res/drawable-v21/design_password_eye.xml"
+    },
+    {
+        "merged": "/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/app/build/intermediates/res/merged/debug/drawable-v21/tw__like_action.xml",
+        "source": "/Users/dddddd/.android/build-cache/abd91bc45bc241b8c474989b1927fcd9c27a7ff6/output/res/drawable-v21/tw__like_action.xml"
+    },
+    {
+        "merged": "/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_gallery.xml",
+        "source": "/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/app/src/main/res/drawable-v21/ic_menu_gallery.xml"
+    }
+]

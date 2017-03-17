@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/app/build/intermediates/res/merged/debug/xml/pref_notification.xml",
+        "source": "/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/app/src/main/res/xml/pref_notification.xml"
+    },
+    {
+        "merged": "/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/app/build/intermediates/res/merged/debug/xml/pref_general.xml",
+        "source": "/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/app/src/main/res/xml/pref_general.xml"
+    },
+    {
+        "merged": "/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/app/build/intermediates/res/merged/debug/xml/pref_headers.xml",
+        "source": "/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/app/src/main/res/xml/pref_headers.xml"
+    },
+    {
+        "merged": "/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/app/build/intermediates/res/merged/debug/xml/pref_data_sync.xml",
+        "source": "/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/app/src/main/res/xml/pref_data_sync.xml"
+    }
+]

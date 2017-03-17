@@ -1,0 +1,354 @@
+[
+    {
+        "merged": "/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/auth/build/intermediates/res/merged/release/layout/design_layout_snackbar_include.xml",
+        "source": "/Users/dddddd/.android/build-cache/633c7ec7e7331dfa25caea61e215fcbb04127080/output/res/layout/design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/auth/build/intermediates/res/merged/release/layout/abc_search_view.xml",
+        "source": "/Users/dddddd/.android/build-cache/22c03d774852207d022b53a9d62748a85d09a91f/output/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/auth/build/intermediates/res/merged/release/layout/abc_select_dialog_material.xml",
+        "source": "/Users/dddddd/.android/build-cache/22c03d774852207d022b53a9d62748a85d09a91f/output/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/auth/build/intermediates/res/merged/release/layout/messenger_button_send_blue_round.xml",
+        "source": "/Users/dddddd/.android/build-cache/9b336d59d10581d6c1123b5fbb7913af071048d6/output/res/layout/messenger_button_send_blue_round.xml"
+    },
+    {
+        "merged": "/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/auth/build/intermediates/res/merged/release/layout/notification_template_media_custom.xml",
+        "source": "/Users/dddddd/.android/build-cache/22c03d774852207d022b53a9d62748a85d09a91f/output/res/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/auth/build/intermediates/res/merged/release/layout/abc_screen_content_include.xml",
+        "source": "/Users/dddddd/.android/build-cache/22c03d774852207d022b53a9d62748a85d09a91f/output/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/auth/build/intermediates/res/merged/release/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/dddddd/.android/build-cache/22c03d774852207d022b53a9d62748a85d09a91f/output/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/auth/build/intermediates/res/merged/release/layout/notification_template_media.xml",
+        "source": "/Users/dddddd/.android/build-cache/22c03d774852207d022b53a9d62748a85d09a91f/output/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/auth/build/intermediates/res/merged/release/layout/abc_dialog_title_material.xml",
+        "source": "/Users/dddddd/.android/build-cache/22c03d774852207d022b53a9d62748a85d09a91f/output/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/auth/build/intermediates/res/merged/release/layout/tw__media_badge.xml",
+        "source": "/Users/dddddd/.android/build-cache/abd91bc45bc241b8c474989b1927fcd9c27a7ff6/output/res/layout/tw__media_badge.xml"
+    },
+    {
+        "merged": "/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/auth/build/intermediates/res/merged/release/layout/abc_alert_dialog_material.xml",
+        "source": "/Users/dddddd/.android/build-cache/22c03d774852207d022b53a9d62748a85d09a91f/output/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/auth/build/intermediates/res/merged/release/layout/design_layout_tab_icon.xml",
+        "source": "/Users/dddddd/.android/build-cache/633c7ec7e7331dfa25caea61e215fcbb04127080/output/res/layout/design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/auth/build/intermediates/res/merged/release/layout/design_navigation_menu_item.xml",
+        "source": "/Users/dddddd/.android/build-cache/633c7ec7e7331dfa25caea61e215fcbb04127080/output/res/layout/design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/auth/build/intermediates/res/merged/release/layout/tw__tweet_quote.xml",
+        "source": "/Users/dddddd/.android/build-cache/abd91bc45bc241b8c474989b1927fcd9c27a7ff6/output/res/layout/tw__tweet_quote.xml"
+    },
+    {
+        "merged": "/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/auth/build/intermediates/res/merged/release/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/dddddd/.android/build-cache/22c03d774852207d022b53a9d62748a85d09a91f/output/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/auth/build/intermediates/res/merged/release/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Users/dddddd/.android/build-cache/22c03d774852207d022b53a9d62748a85d09a91f/output/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/auth/build/intermediates/res/merged/release/layout/abc_list_menu_item_icon.xml",
+        "source": "/Users/dddddd/.android/build-cache/22c03d774852207d022b53a9d62748a85d09a91f/output/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/auth/build/intermediates/res/merged/release/layout/notification_template_part_time.xml",
+        "source": "/Users/dddddd/.android/build-cache/22c03d774852207d022b53a9d62748a85d09a91f/output/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/auth/build/intermediates/res/merged/release/layout/welcome_back_idp_prompt_layout.xml",
+        "source": "/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/auth/src/main/res/layout/welcome_back_idp_prompt_layout.xml"
+    },
+    {
+        "merged": "/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/auth/build/intermediates/res/merged/release/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/dddddd/.android/build-cache/22c03d774852207d022b53a9d62748a85d09a91f/output/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/auth/build/intermediates/res/merged/release/layout/select_dialog_item_material.xml",
+        "source": "/Users/dddddd/.android/build-cache/22c03d774852207d022b53a9d62748a85d09a91f/output/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/auth/build/intermediates/res/merged/release/layout/com_facebook_smart_device_dialog_fragment.xml",
+        "source": "/Users/dddddd/.android/build-cache/9b336d59d10581d6c1123b5fbb7913af071048d6/output/res/layout/com_facebook_smart_device_dialog_fragment.xml"
+    },
+    {
+        "merged": "/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/auth/build/intermediates/res/merged/release/layout/design_menu_item_action_area.xml",
+        "source": "/Users/dddddd/.android/build-cache/633c7ec7e7331dfa25caea61e215fcbb04127080/output/res/layout/design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/auth/build/intermediates/res/merged/release/layout/abc_action_mode_bar.xml",
+        "source": "/Users/dddddd/.android/build-cache/22c03d774852207d022b53a9d62748a85d09a91f/output/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/auth/build/intermediates/res/merged/release/layout/messenger_button_send_white_large.xml",
+        "source": "/Users/dddddd/.android/build-cache/9b336d59d10581d6c1123b5fbb7913af071048d6/output/res/layout/messenger_button_send_white_large.xml"
+    },
+    {
+        "merged": "/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/auth/build/intermediates/res/merged/release/layout/messenger_button_send_white_round.xml",
+        "source": "/Users/dddddd/.android/build-cache/9b336d59d10581d6c1123b5fbb7913af071048d6/output/res/layout/messenger_button_send_white_round.xml"
+    },
+    {
+        "merged": "/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/auth/build/intermediates/res/merged/release/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/dddddd/.android/build-cache/22c03d774852207d022b53a9d62748a85d09a91f/output/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/auth/build/intermediates/res/merged/release/layout/tw__action_bar.xml",
+        "source": "/Users/dddddd/.android/build-cache/abd91bc45bc241b8c474989b1927fcd9c27a7ff6/output/res/layout/tw__action_bar.xml"
+    },
+    {
+        "merged": "/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/auth/build/intermediates/res/merged/release/layout/com_facebook_login_fragment.xml",
+        "source": "/Users/dddddd/.android/build-cache/9b336d59d10581d6c1123b5fbb7913af071048d6/output/res/layout/com_facebook_login_fragment.xml"
+    },
+    {
+        "merged": "/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/auth/build/intermediates/res/merged/release/layout/idp_button_google.xml",
+        "source": "/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/auth/src/main/res/layout/idp_button_google.xml"
+    },
+    {
+        "merged": "/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/auth/build/intermediates/res/merged/release/layout/forgot_password_layout.xml",
+        "source": "/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/auth/src/main/res/layout/forgot_password_layout.xml"
+    },
+    {
+        "merged": "/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/auth/build/intermediates/res/merged/release/layout/notification_template_lines_media.xml",
+        "source": "/Users/dddddd/.android/build-cache/22c03d774852207d022b53a9d62748a85d09a91f/output/res/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/auth/build/intermediates/res/merged/release/layout/messenger_button_send_blue_large.xml",
+        "source": "/Users/dddddd/.android/build-cache/9b336d59d10581d6c1123b5fbb7913af071048d6/output/res/layout/messenger_button_send_blue_large.xml"
+    },
+    {
+        "merged": "/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/auth/build/intermediates/res/merged/release/layout/design_bottom_sheet_dialog.xml",
+        "source": "/Users/dddddd/.android/build-cache/633c7ec7e7331dfa25caea61e215fcbb04127080/output/res/layout/design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/auth/build/intermediates/res/merged/release/layout/abc_action_menu_layout.xml",
+        "source": "/Users/dddddd/.android/build-cache/22c03d774852207d022b53a9d62748a85d09a91f/output/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/auth/build/intermediates/res/merged/release/layout/tw__tweet_compact.xml",
+        "source": "/Users/dddddd/.android/build-cache/abd91bc45bc241b8c474989b1927fcd9c27a7ff6/output/res/layout/tw__tweet_compact.xml"
+    },
+    {
+        "merged": "/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/auth/build/intermediates/res/merged/release/layout/notification_template_icon_group.xml",
+        "source": "/Users/dddddd/.android/build-cache/22c03d774852207d022b53a9d62748a85d09a91f/output/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/auth/build/intermediates/res/merged/release/layout/abc_alert_dialog_title_material.xml",
+        "source": "/Users/dddddd/.android/build-cache/22c03d774852207d022b53a9d62748a85d09a91f/output/res/layout/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/auth/build/intermediates/res/merged/release/layout/tw__activity_oauth.xml",
+        "source": "/Users/dddddd/.android/build-cache/030c39b12573d80b6240f91400071066b11e95f5/output/res/layout/tw__activity_oauth.xml"
+    },
+    {
+        "merged": "/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/auth/build/intermediates/res/merged/release/layout/abc_screen_simple.xml",
+        "source": "/Users/dddddd/.android/build-cache/22c03d774852207d022b53a9d62748a85d09a91f/output/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/auth/build/intermediates/res/merged/release/layout/select_dialog_singlechoice_material.xml",
+        "source": "/Users/dddddd/.android/build-cache/22c03d774852207d022b53a9d62748a85d09a91f/output/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/auth/build/intermediates/res/merged/release/layout/notification_action.xml",
+        "source": "/Users/dddddd/.android/build-cache/22c03d774852207d022b53a9d62748a85d09a91f/output/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/auth/build/intermediates/res/merged/release/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Users/dddddd/.android/build-cache/22c03d774852207d022b53a9d62748a85d09a91f/output/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/auth/build/intermediates/res/merged/release/layout/abc_list_menu_item_layout.xml",
+        "source": "/Users/dddddd/.android/build-cache/22c03d774852207d022b53a9d62748a85d09a91f/output/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/auth/build/intermediates/res/merged/release/layout/design_navigation_menu.xml",
+        "source": "/Users/dddddd/.android/build-cache/633c7ec7e7331dfa25caea61e215fcbb04127080/output/res/layout/design_navigation_menu.xml"
+    },
+    {
+        "merged": "/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/auth/build/intermediates/res/merged/release/layout/design_bottom_navigation_item.xml",
+        "source": "/Users/dddddd/.android/build-cache/633c7ec7e7331dfa25caea61e215fcbb04127080/output/res/layout/design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/auth/build/intermediates/res/merged/release/layout/auth_method_picker_layout.xml",
+        "source": "/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/auth/src/main/res/layout/auth_method_picker_layout.xml"
+    },
+    {
+        "merged": "/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/auth/build/intermediates/res/merged/release/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/dddddd/.android/build-cache/22c03d774852207d022b53a9d62748a85d09a91f/output/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/auth/build/intermediates/res/merged/release/layout/abc_action_bar_up_container.xml",
+        "source": "/Users/dddddd/.android/build-cache/22c03d774852207d022b53a9d62748a85d09a91f/output/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/auth/build/intermediates/res/merged/release/layout/design_text_input_password_icon.xml",
+        "source": "/Users/dddddd/.android/build-cache/633c7ec7e7331dfa25caea61e215fcbb04127080/output/res/layout/design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/auth/build/intermediates/res/merged/release/layout/messenger_button_send_blue_small.xml",
+        "source": "/Users/dddddd/.android/build-cache/9b336d59d10581d6c1123b5fbb7913af071048d6/output/res/layout/messenger_button_send_blue_small.xml"
+    },
+    {
+        "merged": "/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/auth/build/intermediates/res/merged/release/layout/tw__player_activity.xml",
+        "source": "/Users/dddddd/.android/build-cache/abd91bc45bc241b8c474989b1927fcd9c27a7ff6/output/res/layout/tw__player_activity.xml"
+    },
+    {
+        "merged": "/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/auth/build/intermediates/res/merged/release/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Users/dddddd/.android/build-cache/22c03d774852207d022b53a9d62748a85d09a91f/output/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/auth/build/intermediates/res/merged/release/layout/tw__gallery_activity.xml",
+        "source": "/Users/dddddd/.android/build-cache/abd91bc45bc241b8c474989b1927fcd9c27a7ff6/output/res/layout/tw__gallery_activity.xml"
+    },
+    {
+        "merged": "/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/auth/build/intermediates/res/merged/release/layout/com_facebook_device_auth_dialog_fragment.xml",
+        "source": "/Users/dddddd/.android/build-cache/9b336d59d10581d6c1123b5fbb7913af071048d6/output/res/layout/com_facebook_device_auth_dialog_fragment.xml"
+    },
+    {
+        "merged": "/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/auth/build/intermediates/res/merged/release/layout/com_facebook_tooltip_bubble.xml",
+        "source": "/Users/dddddd/.android/build-cache/9b336d59d10581d6c1123b5fbb7913af071048d6/output/res/layout/com_facebook_tooltip_bubble.xml"
+    },
+    {
+        "merged": "/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/auth/build/intermediates/res/merged/release/layout/select_dialog_multichoice_material.xml",
+        "source": "/Users/dddddd/.android/build-cache/22c03d774852207d022b53a9d62748a85d09a91f/output/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/auth/build/intermediates/res/merged/release/layout/design_navigation_item_separator.xml",
+        "source": "/Users/dddddd/.android/build-cache/633c7ec7e7331dfa25caea61e215fcbb04127080/output/res/layout/design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/auth/build/intermediates/res/merged/release/layout/notification_action_tombstone.xml",
+        "source": "/Users/dddddd/.android/build-cache/22c03d774852207d022b53a9d62748a85d09a91f/output/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/auth/build/intermediates/res/merged/release/layout/tw__video_control.xml",
+        "source": "/Users/dddddd/.android/build-cache/abd91bc45bc241b8c474989b1927fcd9c27a7ff6/output/res/layout/tw__video_control.xml"
+    },
+    {
+        "merged": "/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/auth/build/intermediates/res/merged/release/layout/idp_button_facebook.xml",
+        "source": "/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/auth/src/main/res/layout/idp_button_facebook.xml"
+    },
+    {
+        "merged": "/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/auth/build/intermediates/res/merged/release/layout/tw__activity_share_email.xml",
+        "source": "/Users/dddddd/.android/build-cache/030c39b12573d80b6240f91400071066b11e95f5/output/res/layout/tw__activity_share_email.xml"
+    },
+    {
+        "merged": "/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/auth/build/intermediates/res/merged/release/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/dddddd/.android/build-cache/22c03d774852207d022b53a9d62748a85d09a91f/output/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/auth/build/intermediates/res/merged/release/layout/abc_expanded_menu_layout.xml",
+        "source": "/Users/dddddd/.android/build-cache/22c03d774852207d022b53a9d62748a85d09a91f/output/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/auth/build/intermediates/res/merged/release/layout/abc_action_bar_title_item.xml",
+        "source": "/Users/dddddd/.android/build-cache/22c03d774852207d022b53a9d62748a85d09a91f/output/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/auth/build/intermediates/res/merged/release/layout/tw__composer_view.xml",
+        "source": "/Users/dddddd/.android/build-cache/8849892bd413ce13862f7430f3ed313e51fec6b0/output/res/layout/tw__composer_view.xml"
+    },
+    {
+        "merged": "/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/auth/build/intermediates/res/merged/release/layout/idp_button_twitter.xml",
+        "source": "/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/auth/src/main/res/layout/idp_button_twitter.xml"
+    },
+    {
+        "merged": "/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/auth/build/intermediates/res/merged/release/layout/abc_list_menu_item_radio.xml",
+        "source": "/Users/dddddd/.android/build-cache/22c03d774852207d022b53a9d62748a85d09a91f/output/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/auth/build/intermediates/res/merged/release/layout/design_navigation_item.xml",
+        "source": "/Users/dddddd/.android/build-cache/633c7ec7e7331dfa25caea61e215fcbb04127080/output/res/layout/design_navigation_item.xml"
+    },
+    {
+        "merged": "/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/auth/build/intermediates/res/merged/release/layout/tw__tweet.xml",
+        "source": "/Users/dddddd/.android/build-cache/abd91bc45bc241b8c474989b1927fcd9c27a7ff6/output/res/layout/tw__tweet.xml"
+    },
+    {
+        "merged": "/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/auth/build/intermediates/res/merged/release/layout/register_email_layout.xml",
+        "source": "/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/auth/src/main/res/layout/register_email_layout.xml"
+    },
+    {
+        "merged": "/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/auth/build/intermediates/res/merged/release/layout/abc_action_menu_item_layout.xml",
+        "source": "/Users/dddddd/.android/build-cache/22c03d774852207d022b53a9d62748a85d09a91f/output/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/auth/build/intermediates/res/merged/release/layout/design_navigation_item_subheader.xml",
+        "source": "/Users/dddddd/.android/build-cache/633c7ec7e7331dfa25caea61e215fcbb04127080/output/res/layout/design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/auth/build/intermediates/res/merged/release/layout/tw__activity_composer.xml",
+        "source": "/Users/dddddd/.android/build-cache/8849892bd413ce13862f7430f3ed313e51fec6b0/output/res/layout/tw__activity_composer.xml"
+    },
+    {
+        "merged": "/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/auth/build/intermediates/res/merged/release/layout/design_layout_snackbar.xml",
+        "source": "/Users/dddddd/.android/build-cache/633c7ec7e7331dfa25caea61e215fcbb04127080/output/res/layout/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/auth/build/intermediates/res/merged/release/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/dddddd/.android/build-cache/22c03d774852207d022b53a9d62748a85d09a91f/output/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/auth/build/intermediates/res/merged/release/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/Users/dddddd/.android/build-cache/22c03d774852207d022b53a9d62748a85d09a91f/output/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/auth/build/intermediates/res/merged/release/layout/welcome_back_password_prompt_layout.xml",
+        "source": "/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/auth/src/main/res/layout/welcome_back_password_prompt_layout.xml"
+    },
+    {
+        "merged": "/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/auth/build/intermediates/res/merged/release/layout/tw__app_card.xml",
+        "source": "/Users/dddddd/.android/build-cache/8849892bd413ce13862f7430f3ed313e51fec6b0/output/res/layout/tw__app_card.xml"
+    },
+    {
+        "merged": "/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/auth/build/intermediates/res/merged/release/layout/messenger_button_send_white_small.xml",
+        "source": "/Users/dddddd/.android/build-cache/9b336d59d10581d6c1123b5fbb7913af071048d6/output/res/layout/messenger_button_send_white_small.xml"
+    },
+    {
+        "merged": "/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/auth/build/intermediates/res/merged/release/layout/com_facebook_activity_layout.xml",
+        "source": "/Users/dddddd/.android/build-cache/9b336d59d10581d6c1123b5fbb7913af071048d6/output/res/layout/com_facebook_activity_layout.xml"
+    },
+    {
+        "merged": "/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/auth/build/intermediates/res/merged/release/layout/check_email_layout.xml",
+        "source": "/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/auth/src/main/res/layout/check_email_layout.xml"
+    },
+    {
+        "merged": "/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/auth/build/intermediates/res/merged/release/layout/design_layout_tab_text.xml",
+        "source": "/Users/dddddd/.android/build-cache/633c7ec7e7331dfa25caea61e215fcbb04127080/output/res/layout/design_layout_tab_text.xml"
+    },
+    {
+        "merged": "/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/auth/build/intermediates/res/merged/release/layout/abc_screen_toolbar.xml",
+        "source": "/Users/dddddd/.android/build-cache/22c03d774852207d022b53a9d62748a85d09a91f/output/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/auth/build/intermediates/res/merged/release/layout/design_navigation_item_header.xml",
+        "source": "/Users/dddddd/.android/build-cache/633c7ec7e7331dfa25caea61e215fcbb04127080/output/res/layout/design_navigation_item_header.xml"
+    },
+    {
+        "merged": "/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/auth/build/intermediates/res/merged/release/layout/abc_activity_chooser_view.xml",
+        "source": "/Users/dddddd/.android/build-cache/22c03d774852207d022b53a9d62748a85d09a91f/output/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/auth/build/intermediates/res/merged/release/layout/activity_register_email.xml",
+        "source": "/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/auth/src/main/res/layout/activity_register_email.xml"
+    },
+    {
+        "merged": "/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/auth/build/intermediates/res/merged/release/layout/include_auth_method_picker_logo.xml",
+        "source": "/Users/dddddd/AndroidStudioProjects/FirebaseUI-Android-master 2/auth/src/main/res/layout/include_auth_method_picker_logo.xml"
+    }
+]
